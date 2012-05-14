@@ -10,6 +10,8 @@ public class CommonDepartments {
 	public static final String ROLE_WORKER="ff80818131cd4e930131cd9781a501e5";
 	public static final String ROLE_CUSTOMER="ff80818131cd4e930131cd9723e40147";
 	
+	public static final String WORKFLOW_SERVICE="ff808181374a5ef901374b6992d50088";
+	public static final String UDF_SERVICE_EXECUTIVE="ff808181374a5ef901374b6a196b008b";
 	
 	
 
